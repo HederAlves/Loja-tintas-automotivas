@@ -1,0 +1,70 @@
+@media(max-width: 780px) {
+
+	body {
+		width: 142%;
+		background: url("../imagens/cores-mobile.png");
+		background-repeat: no-repeat;
+		background-size: 810px;
+	}
+
+	header {
+		display: flex;
+	}
+
+	.containerCabecalho {
+		height: 260px;
+		display: initial;
+		justify-content: initial;
+	}
+
+	h1 {
+		text-align: center;
+	}
+
+	.containerNav {
+		flex-direction: initial;
+		justify-content: initial;
+	}
+
+	main {
+		height: 900px;
+	}
+
+	h2 {
+		padding: 50px 0px 50px 0px;
+	}
+
+	.containerSobre {
+		font-size: 25px;
+		text-align: center;
+		margin: 0px 50px 0px 50px;
+	}
+
+	h3 {
+		margin: 80px 0px 5px 0px;
+		text-align: center;
+	}
+
+	.containerBeneficios li {
+		font-size: 25px;
+	}
+
+	.imagemPistola {
+		transform: scaleX(-1);
+		width: 225px;
+		margin: -60px 0px 0px -33px;
+	}
+
+	footer img {
+		background: white;
+		margin: 0px 0px -20px 0px;
+		width: 30%;
+	}
+
+	footer p {
+		width: 534px;
+		padding: 15px 0px;
+		background: white;
+		font-size: 20px;
+	}
+}
