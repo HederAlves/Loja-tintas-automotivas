@@ -1,8 +1,7 @@
 @media(max-width: 780px) {
 
 	body {
-		width: 142%;
-		background: url("../imagens/cores-mobile.png");
+		background: url("../images/cores-mobile.png");
 		background-repeat: no-repeat;
 		background-size: 810px;
 	}
@@ -62,7 +61,6 @@
 	}
 
 	footer p {
-		width: 534px;
 		padding: 15px 0px;
 		background: white;
 		font-size: 20px;
