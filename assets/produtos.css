@@ -1,0 +1,78 @@
+body {
+	font-family: sans-serif;
+	background: url("../images/cores.png");
+	background-size: 2000px;
+	background-repeat: no-repeat;
+	background-position: right;
+}
+
+.containerCabecalho {
+	box-sizing: border-box;
+	border-radius: 0px 0px 10px 10px ;
+	box-shadow: 10px 10px 10px 10px black;
+	display: flex;
+	justify-content: space-around;
+}
+
+.containerCabecalho img {
+	width: 45%;
+}
+
+.containerNav {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.containerNav ul {
+	display: flex;
+	align-items: center;
+}
+
+.containerNav li {
+	color: white;
+	font-size: 22px;
+	margin: 15px;
+	text-transform: uppercase;
+}
+
+.containerNav a {
+	box-sizing: border-box;
+	border-radius: 15px;
+	background: black;
+	padding: 20px;
+	color: white;
+	text-decoration: none;
+	border: 5px solid black;
+}
+
+.containerNav a:hover {
+	background: darkorange;
+	color: black;
+	border: 5px solid black;
+}
+
+main {
+	color: white;
+	background: black;
+	background-color: rgba(20,20,20,0.8);
+	height: 500px;
+}
+
+.imagemPistola {
+	position: absolute;
+	margin: -555px 50px 0px 1210px;
+	width: 28%;
+}
+
+footer {
+	text-align: center;
+	box-sizing: border-box;
+	border-radius: 10px 10px 0px 0px;
+	box-shadow: 0px -30px 10px -10px black;
+}
+
+footer img {
+	margin-top: 190px;
+	width: 5%;
+}
