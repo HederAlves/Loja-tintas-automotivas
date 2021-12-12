@@ -59,6 +59,12 @@ main {
 	height: 500px;
 }
 
+main form {
+	display: flex;
+	flex-direction: column;
+	margin-top: 150px;
+}
+
 .imagemPistola {
 	position: absolute;
 	margin: -555px 50px 0px 1210px;
