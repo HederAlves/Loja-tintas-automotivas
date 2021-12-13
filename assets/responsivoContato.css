@@ -56,6 +56,30 @@
 		margin: -250px 0px 0px -33px;
 	}
 	
+	main {
+		font-size: 25px;
+		width: 534px;
+		height: 900px;
+	}
+
+	main form {
+		padding: 51px;
+		width: 80%;
+	}
+
+	main form input {
+		height: 35px;
+	}
+
+	main form label, input, textarea,button {
+		margin-top: 25px;
+		font-size: 25px;
+    }
+
+    main button {
+    	margin: 100px;
+    }
+
 	footer {
 		width: 534px;
 	
