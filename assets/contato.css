@@ -61,14 +61,42 @@ main {
 
 main form {
 	display: flex;
-	flex-direction: column;
-	margin-top: 150px;
+    flex-direction: column;
+    text-align: center;
+    width: 20%;
+    padding: 40px 345px;
+}
+
+main form label, input, textarea,button {
+	margin-top: 10px;
+	font-size: 20px;
+	text-align: center;
 }
 
 .imagemPistola {
 	position: absolute;
 	margin: -555px 50px 0px 1210px;
 	width: 28%;
+}
+
+main button {
+	height: 60px;
+	border-radius: 15px;
+	margin: 50px;
+	text-align: center;
+	align-items: center;
+	display: flex;
+	justify-content: center;
+	background: black;
+	color: white;
+	font-size: 20px;
+	font-weight: 400;
+}
+
+main button:hover{
+	background: darkorange;
+	color: black;
+	border: 5px solid black;
 }
 
 footer {
