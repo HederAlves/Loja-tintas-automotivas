@@ -20,6 +20,10 @@
 	h1 {
 		text-align: center;
 	}
+	
+	.containerCabecalho img {
+    		width: 50%;
+	}
 
 	.containerNav {
 		flex-direction: initial;
