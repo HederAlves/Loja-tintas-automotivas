@@ -15,7 +15,7 @@ body {
 }
 
 .containerCabecalho img {
-	width: 45%;
+	width: 20%;
 }
 
 .containerNav {
@@ -61,7 +61,7 @@ main {
 
 .imagemPistola {
 	position: absolute;
-	margin: -555px 50px 0px 1210px;
+	margin: -47vh 0vw 0vh 71vw;
 	width: 28%;
 }
 
