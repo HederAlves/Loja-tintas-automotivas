@@ -15,7 +15,7 @@ body {
 }
 
 .containerCabecalho img {
-	width: 45%;
+	width: 20%;
 }
 
 .containerNav {
@@ -56,7 +56,7 @@ main {
 	color: white;
 	background: black;
 	background-color: rgba(20,20,20,0.8);
-	height: 500px;
+	height: 510px;
 }
 
 h2 {
@@ -88,7 +88,7 @@ h3 {
 
 .imagemPistola {
 	position: absolute;
-	margin: -410px 50px 0px 1210px;
+	margin: -67vh 0vw 0vh 71vw;
 	width: 28%;
 }
 
@@ -112,6 +112,6 @@ footer {
 }
 
 footer img {
-	margin-top: 190px;
+	margin-top: 110px;
 	width: 5%;
 }
