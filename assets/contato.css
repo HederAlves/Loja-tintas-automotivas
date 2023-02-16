@@ -75,7 +75,7 @@ main form label, input, textarea,button {
 
 .imagemPistola {
 	position: absolute;
-	margin: -47vh 0vw 0vh 71vw;
+	margin: -70vh 0vw 0vh 71vw;
 	width: 28%;
 }
 
@@ -107,6 +107,6 @@ footer {
 }
 
 footer img {
-	margin-top: 110px;
+	margin-top: 190px;
 	width: 5%;
 }
